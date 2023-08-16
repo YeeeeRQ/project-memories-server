@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "memories-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "memories-server",
   "type": "module",
   "main": "index.js",
   "scripts": {
