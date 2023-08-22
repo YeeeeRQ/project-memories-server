@@ -26,6 +26,7 @@ mongoose
   .connect(CONNECTION_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
+    dbName:"memories"
   })
   .then(() =>
     app.listen(PORT, () => {
